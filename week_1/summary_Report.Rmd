@@ -1,0 +1,116 @@
+---
+title: "R Refresher !!!"
+author: "Pritam Shrestha"
+date: "June 5th 2020"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## R Refresher 
+
+# Introduction:
+
+I have downloaded one datasets from the given URL to perform the statistical analysis of the data using data analysis mechanism including statistical and visulization techniques.
+
+# Datasets:
+1) Demand and supply of the Food (https://www.bls.gov/data/)
+Based on the available data i have gone through the all types of the food which are supplied for the year 2018 and 2019 to perform the data analysis.
+
+
+# Used Variables
+Code, Index, X2018 and X2019.
+
+# loading and performing statisticaloperation of data for futher analysis
+```{r}
+demand<-read.csv("C:\\Users\\pritam\\Desktop\\fdallrel20.csv")
+View(demand)
+
+# summary stastistics of the data
+summary(demand)
+
+# checking the data structure
+head(demand)
+
+# summary of the december 2018
+summary(demand$X2018)
+
+# summary of the december 2019
+summary(demand$X2019)
+
+# potting the data based on 2018 data
+barplot(demand$X2018)
+
+# plotting the data based on 2019 data
+barplot(demand$X2019)
+
+# plotting histogram
+hist(demand$X2018)
+
+# histogram plot
+hist(demand$X2019)
+
+# density plot
+plot(density(demand$X2018))
+plot(density(demand$X2019))
+
+# explore some bivariate relations using scatterplot 
+library(ggplot2)
+ggplot(demand,aes(X2018,X2019))+geom_point()
+
+# checking my ggplot2 is perfectly working or not?
+View(mpg)
+ggplot(mpg,aes(displ,hwy))+geom_point()
+
+# Yes it is perfetly working.
+
+# checking data types
+is.numeric(demand$X2018)
+
+# converting into numeric format
+demand$X2018<-as.numeric(demand$X2018)
+demand$X2019<-as.numeric(demand$X2019)
+
+# checking the data type in the dataset
+is.numeric(demand$X2018)
+is.numeric(demand$X2019)
+cor(demand$X2018,demand$X2019,method = 'pearson')
+
+# checking another corellation
+demand$Code<-as.numeric(demand$Code)
+is.numeric(demand$Code)
+
+# checking the correlation
+cor(demand$Code,demand$X2018,method='pearson')
+
+# checking another corelation between variables
+cor(demand$Code,demand$X2019,method='pearson')
+
+# plotting scatter plot after data conversion
+ggplot(demand,aes(X2018,X2019))+geom_point()
+
+
+```
+
+
+## Problems
+Problem is common while doing something in the beginning, it is not big deal while working but we need to handle it correctly otherwise it might lead the failure. like other people i also have faced some problem in the beginning such as how to clean up the datasets, how to change the factor variable in to numerical variable, which package required, how to normalize the datasets and so on. However i have solved all those problems one by one reading article, watching YouTube video and research paper.
+
+## Analysis:
+To complete this assignment i have used statistical analysis with the help of programming R. In fact, i have used all the required method to answer the questions of the datasets. Basically i have used correlation method to see the relation between the variables, where i have found very strong correlation between X2018 and X2019 data but there is very week correlation between code and X2019 and X2018 data and some data visualization techniques such as ggplot,histogram, barplot, density plot and scatter plot.
+
+## Implications:
+Actually i haven't used Programming R recently so i almost forgot but due to this assignment i got a chance to memorize it.
+## Limitations:
+Unfortunately, i have chosen this dataset and it has limited varibles so it was kind of hard to apply all techniques.
+
+## Conclusion:
+Finally i have completed this assignment. In the beginning of the project i have faced some sort of difficulties but eventually solved all problems and difficulties. To complete this assignment i have used some statistical analysis such as correlation and scatterplot to find the relation.In fact, i really enjoyed doing this assignment. 
+
+
+## Thank You!!!

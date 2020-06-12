@@ -1,0 +1,1527 @@
+Code,Index,2018,2019
+FD4,Final demand,100,100
+1,Farm products,0.893,0.807
+11,"Fruits & melons, fresh/dry vegs. & nuts",0.526,0.447
+111,Fresh fruits and melons,0.185,0.176
+11101,Citrus fruits,0.041,0.036
+11102,Other fruits and berries,0.128,0.121
+11103,Melons,0.016,0.019
+113,Fresh and dry vegetables,0.268,0.199
+11301,Dry vegetables,0.007,0.008
+11302,"Fresh vegetables, except potatoes",0.224,0.136
+11303,Sweet potatoes,0.005,0.006
+11306,Potatoes,0.032,0.049
+119,Tree nuts,0.072,0.072
+11901,Tree nuts,0.072,0.072
+12,Grains,0.164,0.164
+121,Wheat,0.037,0.034
+12101,Wheat,0.037,0.034
+122,Other grains,0.12,0.122
+12201,Barley,0.002,0.002
+12202,Corn,0.115,0.118
+12203,Oats,0,0
+12204,Rye,0,0
+12205,Sorghum,0.002,0.002
+123,Rough rice,0.007,0.007
+12301,Rough rice,0.007,0.007
+13,Slaughter livestock,0.006,0.007
+132,Slaughter hogs,0.006,0.006
+13201,Slaughter barrows and gilts,0.006,0.006
+13202,Slaughter sows,0,0
+133,Slaughter lambs,0,0
+13301,Slaughter lambs,0,0
+14,Slaughter poultry,0.004,0.004
+141,Slaughter chickens,0.003,0.003
+14102,Broilers and other meat type chickens,0.003,0.003
+142,Slaughter turkeys,0.001,0.001
+14201,Slaughter turkeys,0.001,0.001
+143,Slaughter ducks,0,0
+14301,Slaughter ducks,0,0
+15,Raw cotton,0.029,0.023
+151,Raw cotton,0.029,0.023
+15101,Raw cotton,0.029,0.023
+16,Raw milk,0.002,0.002
+161,Raw milk,0.002,0.002
+16101,Raw milk,0.002,0.002
+17,Chicken eggs,0.065,0.061
+171,Chicken eggs,0.065,0.061
+17107,Eggs for fresh use,0.065,0.061
+17108,Breaker stock and checks and undergrades,0,0
+18,"Hay, hayseeds, and oilseeds",0.098,0.099
+181,Hay and hayseeds,0.003,0.003
+18101,Hay and hayseeds,0.003,0.003
+183,Oilseeds,0.095,0.096
+18301,Oilseeds,0.095,0.096
+2,Processed foods and feeds,5.627,5.703
+21,Cereal and bakery products,0.726,0.723
+211,Bakery products,0.425,0.424
+21102,"Bread (white, wheat, rye, etc.), including frozen",0.127,0.128
+21105,"Rolls (bread-type), muffins, bagels, and croissants",0.091,0.09
+21107,"Other sweet goods, excluding frozen",0.033,0.033
+21108,"Soft cakes, excluding frozen",0.028,0.027
+21109,"Pies (fruit, cream, and custard), excluding frozen",0.003,0.003
+21121,"Cookies, crackers, and related products",0.107,0.106
+21130,Retail bakery products,0.037,0.037
+212,Flour and flour base mixes and doughs,0.113,0.112
+21203,Wheat flour,0.031,0.03
+21204,Flour base mixes and doughs,0.083,0.082
+213,Milled rice and byproducts,0.032,0.033
+21301,Head rice,0.027,0.027
+21302,"Milled rice (incl second heads, screenings, brewers, bran, sharps, rice flour, and byproducts)",0.005,0.005
+214,Cereal and pasta products,0.155,0.154
+21402,"Dry macaroni, spaghetti, and egg noodle products, made from purchased flour",0.032,0.032
+21409,"Cereal and mill products, other than flour",0.123,0.122
+22,"Meats, poultry, and fish",1.296,1.359
+221,Meats,0.832,0.87
+22101,"Beef and veal products, fresh or frozen",0.38,0.369
+22103,"Lamb/mutton, fresh or frozen, not canned or made into sausage, made in slaughtering plants",0.003,0.002
+22104,"Pork products, fresh, frozen, or processed, except sausage",0.207,0.242
+22105,"Other meats, fresh, frozen, or canned",0.243,0.257
+222,Processed poultry,0.369,0.388
+22203,"Young chickens, including bulk, chilled, frozen, whole, and in parts",0.189,0.195
+22206,"Turkeys, including frozen, whole, and in parts",0.039,0.043
+22208,"Canned, cooked, smoked or prepared poultry",0.128,0.138
+22209,Chicken hens and other poultry/small game,0.012,0.012
+223,Unprocessed and prepared seafood,0.095,0.101
+22301,Unprocessed finfish,0.019,0.024
+22304,"Canned seafood (including soups, stews, and chowders)",0.009,0.01
+22305,Unprocessed shellfish,0.017,0.016
+22306,Prepared fresh and frozen seafood,0.051,0.05
+23,Dairy products,0.572,0.608
+231,Fluid milk products,0.233,0.247
+23103,Packaged fluid milk and related products,0.137,0.151
+23104,Cottage cheese,0.008,0.009
+23105,Other milk products,0.063,0.064
+23106,Bulk fluid milk and cream,0.024,0.024
+232,Butter,0.038,0.033
+23201,Butter,0.038,0.033
+233,"Natural, processed, and imitation cheese",0.161,0.185
+23302,"Natural cheese, except cottage cheese",0.128,0.145
+23303,Process cheese and related products,0.03,0.037
+23304,Cheese substitutes and imitations,0.002,0.002
+23307,Raw liquid whey,0.001,0.001
+234,Ice cream and frozen desserts,0.037,0.037
+23402,Ice cream and frozen desserts,0.037,0.037
+235,"Dry, condensed, and evaporated milk products",0.104,0.105
+23502,"Dry milk products, including feed grade",0.062,0.063
+23503,Liquid milk products,0.034,0.035
+23505,Ice cream mixes and related products,0.007,0.007
+24,Processed fruits and vegetables,0.363,0.356
+241,Canned fruits and juices,0.094,0.09
+24101,"Canned fruits, excluding baby foods",0.029,0.03
+24102,"Canned and fresh fruit juices, nectars, and concentrates",0.064,0.06
+242,"Frozen fruits, juices and ades",0.025,0.021
+24202,Frozen fruits,0.011,0.011
+24203,"Frozen juices, ades, drinks, and cocktails",0.014,0.01
+244,Canned vegetables and juices,0.1,0.101
+24401,Canned vegetables and juices,0.1,0.101
+245,Frozen vegetables,0.086,0.087
+24502,"Frozen potato products (French-fried, patties, puffs, etc.)",0.05,0.05
+24505,"Frozen vegetables, other than potato products",0.036,0.037
+248,Dried and dehydrated food,0.058,0.057
+24801,Dried and dehydrated food,0.058,0.057
+25,Sugar and confectionery,0.328,0.332
+252,Raw cane sugar and sugar cane mill products and by-products,0.001,0.001
+25201,Raw cane sugar and sugarcane mill products and by-products,0.001,0.001
+253,Refined sugar products and by-products,0.023,0.024
+25307,Refined sugar products and by-products,0.023,0.024
+254,Confectionery materials,0.024,0.026
+25401,Confectionery materials,0.024,0.026
+255,Confectionery end products,0.28,0.282
+25502,"Chewing gum, bubble gum, and chewing gum base",0.018,0.017
+25503,Candy and nuts,0.261,0.264
+25505,Sweetening syrups and molasses,0.001,0.001
+26,Beverages and beverage materials,1.07,1.073
+261,Alcoholic beverages,0.528,0.522
+26101,Malt beverages,0.288,0.287
+26102,"Distilled and bottled liquor, excluding brandy",0.104,0.1
+26104,"Wines, brandy, and brandy spirits",0.135,0.135
+262,Soft drinks,0.45,0.46
+26206,"Soft drinks, non-carbonated and bottled water",0.201,0.205
+26210,"Soft drinks, bottle/can, carbonated, all types",0.249,0.254
+263,Packaged beverage materials,0.088,0.086
+26301,"Coffee (whole bean, ground, & instant)",0.076,0.075
+26303,"Tea in consumer packages, exc. canned ice tea",0.011,0.011
+264,Other beverage materials,0.005,0.005
+26401,Other beverage materials,0.005,0.005
+27,Fats and oils,0.065,0.061
+271,"Animal fats and oils, made in slaughtering plants",0.001,0.001
+27101,"Lard, made in slaughtering plants",0.001,0.001
+278,"Shortening, cooking oil, and margarine",0.058,0.054
+27801,"Shortening, cooking oil, and margarine",0.058,0.054
+027A,Other oilseed processing,0.005,0.005
+027A01,Other oilseed processing,0.005,0.005
+027B,"Corn oil, crude and refined",0.002,0.002
+027B01,"Corn oil, made by wet milling",0.002,0.002
+28,Miscellaneous processed foods,0.936,0.919
+281,"Canned jams, jellies, and preserves",0.008,0.008
+28101,"Canned jams, jellies, and preserves",0.008,0.008
+282,"Pickles and other pickled products, including horseradish",0.015,0.015
+28201,Pickles and other pickled products,0.015,0.015
+283,"Processed eggs, liquid, dried, or frozen",0.006,0.005
+28301,"Processed eggs, liquid, dried, or frozen",0.006,0.005
+284,Specialty canning,0.069,0.069
+28401,Specialty canning,0.069,0.069
+285,Frozen specialty food,0.228,0.224
+28501,Frozen specialty food,0.228,0.224
+286,"Prepared sauces, except tomato",0.025,0.025
+28601,"Prepared sauces, excluding tomato-based sauces and sauces comprised of 20 percent or more meat",0.025,0.025
+289,Other miscellaneous processed foods,0.584,0.572
+28901,Other miscellaneous processed foods,0.584,0.572
+29,Prepared animal feeds,0.272,0.273
+292,"Soybean cake, meal, and other byproducts",0.025,0.023
+29201,"Soybean cake, meal, and other byproducts",0.025,0.023
+293,Formula feeds,0.012,0.012
+29301,Formula feeds,0.012,0.012
+294,Miscellaneous feedstuffs,0.234,0.237
+29402,Pet food,0.22,0.223
+29403,Miscellaneous feedstuffs other than pet food,0.015,0.014
+3,Textile products and apparel,0.279,0.27
+31,Synthetic fibers,0.027,0.019
+315,Unprocessed filament yarns,0.027,0.019
+31502,Noncellulosic fibers,0.02,0.019
+31503,"Cellulosic organic fibers (rayon, acetate, and lyocell)",0.007,0
+32,Processed yarns and threads,0.016,0.016
+326,Yarns,0.016,0.015
+32601,Spun cotton yarns,0.005,0.005
+32602,"Spun wool yarns, including new, reused, and reprocessed",0,0
+32603,Spun synthetic yarns,0.002,0.002
+32604,Textured and twisted yarns,0.006,0.006
+32607,Other spun noncellulosic and natural fiber (excluding cotton and wool) yarns,0.002,0.002
+327,Thread,0,0
+32705,Thread,0,0
+33,Greige fabrics,0.009,0.009
+337,Greige broadwoven fabrics,0.007,0.006
+33701,Greige cotton broadwoven fabrics,0.002,0.002
+33703,Greige manmade fiber broadwoven fabrics,0.005,0.005
+338,Greige knit fabrics,0.001,0.001
+33803,"Weft (circular) knit fabrics, greige goods (excluding hosiery)",0.001,0.001
+33804,"Warp knit fabrics, greige goods (excluding hosiery)",0,0
+339,Tire cord and tire fabric,0.002,0.001
+33901,Tire cord and tire fabrics,0.002,0.001
+34,Finished fabrics,0.056,0.055
+342,Finished broadwoven fabrics,0.007,0.007
+34201,Finished cotton broadwoven fabrics,0.001,0.001
+34202,Finished wool broadwoven fabrics and felts,0,0
+34203,"Finished manmade fiber, silk and other natural fiber (excl. cotton and wool) broadwoven fabrics",0.005,0.005
+344,Woven and braided narrow fabrics,0.003,0.003
+34402,Woven and braided narrow fabrics,0.003,0.003
+345,Nonwoven fabrics and felts,0.023,0.022
+34503,Nonwoven fabrics and felts,0.023,0.022
+346,"Coated fabrics, not rubberized",0.003,0.003
+34601,"Coated fabrics, not rubberized",0.003,0.003
+347,"Screen printed textile materials, embroideries, and lace goods",0.017,0.017
+34701,Screen printed textile and apparel materials and embroideries,0.017,0.017
+34702,"Lace & net goods, all leavers & Nottingham lace machine products, incl. bobbinets/barmen laces",0,0
+348,"Knit fabrics, finished in knitting mills",0.003,0.003
+34801,"Weft (circular) knit fabrics, knit and finished in the same establishment (excluding hosiery)",0.001,0.001
+34802,"Warp knit goods, knit and finished in the same establishment",0.002,0.002
+38,Apparel & other fabricated textile prods,0.167,0.167
+381,Apparel,0.092,0.092
+38104,Miscellaneous apparel and accessories,0.019,0.019
+38106,"Women's, girls', and infants' cut and sew apparel",0.041,0.04
+38107,Men's and boys' cut and sew apparel,0.018,0.018
+38108,Apparel made in knitting mills,0.015,0.015
+382,Textile house furnishings,0.034,0.033
+38203,Textile house furnishings,0.034,0.033
+383,Industrial and other fabricated products,0.041,0.041
+38303,Industrial and other fabricated products,0.041,0.041
+39,Miscellaneous textile products/services,0.004,0.004
+394,Miscellaneous textile products/services,0.004,0.004
+39401,Miscellaneous textile products/services,0.004,0.004
+4,"Hides, skins, leather, and related products",0.039,0.039
+41,"Hides and skins, incl. cattle",0.001,0.001
+419,"Hides and skins, incl. cattle",0.001,0.001
+41901,"Hides, skins, and pelts, made in slaughtering plants",0.001,0.001
+42,Leather,0.005,0.004
+427,Finished and unfinished leather,0.005,0.004
+42701,Finished and unfinished leather,0.005,0.004
+43,Footwear,0.017,0.017
+431,Men's nonathletic footwear,0.011,0.011
+43105,"Men's footwear (size 6 and larger), excluding athletic",0.011,0.011
+432,Women's nonathletic footwear,0.005,0.005
+43205,"Women's footwear (size 4 and larger), exclduing athletic",0.005,0.005
+439,Other footwear including slippers,0.001,0.001
+43901,"Other footwear, excluding rubber and plastic soled footwear",0.001,0.001
+44,Other leather and related products,0.016,0.016
+441,Luggage and small leather goods,0.009,0.009
+44101,Luggage and small leather goods,0.009,0.009
+445,"Leather and leather-like goods, n.e.c.",0.007,0.007
+44501,"Leather and leather-like goods, n.e.c.",0.007,0.007
+5,Fuels and related products and power,5.28,5.343
+51,Coal,0.021,0.02
+511,Anthracite,0,0
+51101,Prepared anthracite shipped,0,0
+51102,Unprepared anthracite shipped,0,0
+512,Bituminous coal and lignite,0.021,0.02
+51208,Unprepared bituminous coal and lignite,0.006,0.005
+51209,Prepared bituminous coal and lignite,0.016,0.015
+53,Gas fuels,0.113,0.091
+531,Natural gas,0.007,0.003
+53101,Natural gas,0.007,0.003
+532,Liquefied petroleum gas,0.106,0.088
+53201,Liquefied petroleum gas,0.106,0.088
+54,Electric power,2.316,2.314
+541,Residential electric power,2.108,2.109
+54121,Residential electric power,2.108,2.109
+542,Commercial electric power,0.208,0.206
+54221,Commercial electric power,0.208,0.206
+55,Utility natural gas,0.561,0.546
+551,Residential natural gas,0.482,0.472
+55121,Residential natural gas,0.482,0.472
+552,Commercial natural gas,0.079,0.074
+55221,Commercial natural gas,0.079,0.074
+56,Crude petroleum (domestic production),0.009,0.011
+561,Crude petroleum (domestic production),0.009,0.011
+56101,Crude petroleum (domestic production),0.009,0.011
+57,"Petroleum products, refined",2.206,2.318
+571,Gasoline,1.315,1.451
+57103,Unleaded premium gasoline,0.162,0.179
+57104,Unleaded regular gasoline,1.112,1.228
+57105,Unleaded mid-premium gasoline,0.027,0.029
+57108,Aviation gasoline,0.015,0.015
+572,Kerosene and jet fuels,0.229,0.229
+57202,Kerosene,0.016,0.016
+57203,Jet fuel,0.213,0.213
+573,Light fuel oils,0.472,0.461
+57302,Home heating oil and distillates,0.083,0.079
+57303,No. 2 diesel fuel,0.389,0.382
+574,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",0.052,0.038
+57407,"Residual fuels (heavy fuel oils, incl. #5, #6, & other residual fuels)",0.052,0.038
+576,Finished lubricants,0.115,0.116
+57603,Lubricating grease,0.01,0.01
+57604,Lubricating and similar oils,0.105,0.105
+578,Lubricating oil base stocks,0.023,0.023
+57801,Lubricating oil base stocks,0.023,0.023
+58,"Asphalt and other petroleum and coal products, n.e.c.",0.054,0.043
+581,"Asphalt and other petroleum and coal products, n.e.c.",0.054,0.043
+58102,Asphalt,0.026,0.021
+58103,"Other petroleum and coal products, including coke oven products, n.e.c.",0.028,0.021
+6,Chemicals and allied products,3.555,3.492
+61,Industrial chemicals,0.589,0.557
+613,Basic inorganic chemicals,0.1,0.098
+61302,"Inorganic chemicals, other than alkalies and chlorine",0.068,0.068
+61303,"Alkalies and chlorine, including natural sodium carbonate and sulfate",0.032,0.03
+614,Basic organic chemicals,0.49,0.459
+61401,Primary basic organic chemicals,0.056,0.049
+61402,Cyclic intermediate chemicals and dyes,0.03,0.029
+61403,Other basic organics,0.404,0.382
+62,Paints and allied products,0.063,0.064
+621,Prepared paint,0.036,0.036
+62101,Architectural coatings,0.016,0.016
+62102,OEM finishes excluding marine coatings,0.011,0.011
+62103,"Special purpose coatings, incl. marine, industrial & construction coatings",0.009,0.009
+622,Paint materials,0.025,0.025
+62202,Paint colors,0.023,0.024
+62204,Kaolin and ball clay,0.001,0.001
+623,Allied and miscellaneous paint products,0.002,0.002
+62301,Allied and miscellaneous paint products,0.002,0.002
+63,Drugs and pharmaceuticals,1.685,1.697
+634,Veterinary pharmaceutical preparations,0.032,0.032
+63403,Pharmaceuticals for veterinary use,0.032,0.032
+637,"Biological products, including diagnostics",0.083,0.085
+63717,"Biological products, excluding diagnostic, for veterinary, industrial, and all other misc. uses",0.009,0.01
+63718,Diagnostics,0.034,0.034
+63719,"Biological products, excluding diagnostic, for human use",0.039,0.041
+638,Pharmaceutical preparations,1.57,1.58
+63801,"Pharmaceuticals affecting neoplasms, the endocrine system, & metabolic diseases",0.387,0.392
+63802,Pharmaceuticals acting on the central nervous system and the sense organs,0.425,0.431
+63803,Pharmaceuticals acting on the cardiovascular system,0.16,0.16
+63804,Pharmaceuticals acting on the respiratory system,0.243,0.244
+63805,Pharmaceuticals acting on the digestive or the genito-urinary systems,0.094,0.091
+63806,Pharmaceuticals acting on the skin,0.034,0.034
+63807,"Vitamin, nutrient, and hematinic preparations",0.103,0.103
+63808,Pharmaceuticals affecting parasitic and infective diseases,0.125,0.126
+64,"Fats and oils, inedible",0.018,0.019
+641,"Fats and oils, inedible",0.018,0.019
+64101,"Fats and oils, inedible",0.018,0.019
+65,Agricultural chemicals and chemical products,0.12,0.106
+651,Mixed fertilizers,0.012,0.011
+65105,Mixed fertilizers,0.012,0.011
+652,Fertilizer materials,0.031,0.023
+65201,Nitrogenates,0.012,0.01
+65202,Phosphates,0.019,0.013
+653,Other agricultural chemicals,0.077,0.072
+65301,Other agricultural chemicals,0.077,0.072
+66,Plastic resins and materials,0.259,0.229
+662,Thermoplastic resins and plastics materials,0.223,0.195
+66212,Thermoplastic resins and plastics materials,0.223,0.195
+663,Thermosetting resins and plastics materials,0.036,0.034
+66306,Thermosetting resins and plastics materials,0.036,0.034
+67,Other chemicals and allied products,0.821,0.82
+671,Soaps and detergents,0.157,0.157
+67104,Soaps and other detergents,0.157,0.157
+672,Polish and other sanitation goods,0.093,0.096
+67201,Polish and other sanitation goods,0.093,0.096
+675,Cosmetics and other toilet preparations,0.319,0.319
+67502,Shaving preparations,0.003,0.003
+67503,"Perfumes, toilet waters, and colognes",0.028,0.028
+67504,Hair preparations (including shampoos),0.072,0.071
+67505,Dentifrices,0.032,0.033
+67514,"Creams, lotions and oils, excluding shaving, hair, and deodorant",0.062,0.063
+67515,Other cosmetics and toilet preparations,0.122,0.121
+679,Misc. chemical prod. and preparations,0.252,0.249
+67902,"Explosives, propellants, and blasting accessories",0.009,0.009
+67903,Industrial gases,0.016,0.018
+67904,Adhesives and sealants,0.035,0.035
+67905,Surface active agents,0.062,0.059
+67906,"Gum and wood chemicals, including wood distillation products",0.01,0.01
+67909,Other miscellaneous chemical products,0.12,0.118
+7,Rubber and plastic products,0.668,0.655
+71,Rubber and rubber products,0.219,0.216
+711,"Synthetic rubber, inc. styrene-butadiene rubber (SBR) and ethylene propylene",0.019,0.018
+71102,Synthetic rubber,0.019,0.018
+712,"Tires, tubes, tread, & repair materials",0.11,0.109
+71201,Tires,0.108,0.107
+71203,"Tread rubber, tire sundries, and repair materials",0.002,0.002
+713,Miscellaneous rubber products,0.089,0.089
+71301,"Rubber and plastics footwear, including athletic footwear",0.005,0.005
+71303,Rubber and plastic belts and belting,0.009,0.009
+71304,Rubber and plastics hose,0.012,0.012
+71306,"Miscellaneous rubber products, n.e.c.",0.064,0.063
+72,Plastic products,0.449,0.439
+722,"Unsupported plastic film, sheet and other shapes",0.056,0.055
+72205,"Unsupported plastic film, sheet and other shapes",0.056,0.055
+726,Parts for manufacturing from plastics,0.042,0.042
+72601,Parts for transportation equipment,0.032,0.032
+72602,Other parts and components for manufacturing,0.01,0.01
+729,Other plastic products,0.076,0.073
+72901,Other plastic products,0.076,0.073
+072B,"Consumer, institutional, and commercial products, n.e.c.",0.271,0.265
+072B01,"All other consumer, institutional, and commercial products",0.271,0.265
+072C,Recyclable plastics,0.004,0.004
+072C01,Recyclable plastics,0.004,0.004
+8,Lumber and wood products,0.097,0.096
+81,Lumber,0.015,0.015
+811,Softwood lumber,0.01,0.011
+81105,Softwood cut stock and dimension,0,0
+81106,"Softwood lumber, not edge worked",0.009,0.01
+81107,"Softwood lumber, made from purchased lumber",0.001,0.001
+812,Hardwood lumber,0.005,0.004
+81203,Hardwood cut stock and dimension,0.001,0.001
+81204,Hardwood flooring,0.001,0.001
+81205,"Hardwood lumber, not edge worked",0.003,0.002
+81206,"Hardwood lumber, made from purchased lumber",0,0
+82,Millwork,0.025,0.025
+821,General millwork,0.019,0.019
+82101,General millwork,0.019,0.019
+822,Prefabricated structural members,0.007,0.007
+82201,Prefabricated structural members,0.007,0.007
+83,Plywood,0.006,0.006
+831,Softwood veneer and plywood,0.004,0.003
+83103,Softwood veneer and plywood,0.004,0.003
+835,Hardwood veneer and plywood,0.003,0.002
+83501,Hardwood veneer and plywood,0.003,0.002
+84,Other wood products,0.041,0.041
+841,"Wood pallets and pallet containers, wood and metal combination",0.015,0.016
+84101,Wood pallets and pallet containers,0.015,0.016
+842,Wood boxes,0.002,0.002
+84201,Wood boxes,0.002,0.002
+849,Miscellaneous wood products,0.023,0.023
+84903,"Wood ties, siding, shingles, and shakes, and contract sawing of logs owned by others",0,0
+84904,"Sawn wood fence stock, wood lath, and contract resawing and planing",0,0
+84909,All other miscellaneous wood products,0.023,0.023
+85,"Logs, bolts, timber, pulpwood and wood chips",0.007,0.006
+851,"Logs, bolts, timber, pulpwood and wood chips",0.007,0.006
+85105,"Logs, bolts, timber, pulpwood and wood chips",0.007,0.006
+86,Prefabricated wood buildings & components,0,0
+861,Prefabricated wood buildings & components,0,0
+86101,Prefabricated wood buildings and components,0,0
+87,Treated wood and contract wood preserving,0.003,0.003
+871,Treated wood and contract wood preserving,0.003,0.003
+87101,Treated wood,0.002,0.002
+87102,Contract wood preservation,0,0
+9,"Pulp, paper, and allied products",0.834,0.82
+91,"Pulp, paper, and prod., ex. bldg. paper",0.607,0.59
+911,Wood pulp,0.034,0.021
+91105,Wood pulp,0.034,0.021
+912,Wastepaper,0.007,0.004
+91201,News and other low grade wastepaper,0,0
+91203,Corrugated wastepaper,0.005,0.003
+91207,High grade wastepaper (including pulp substitutes and deinking),0.002,0.001
+913,Paper,0.176,0.174
+91301,Writing and printing papers,0.116,0.116
+91302,Newsprint,0.006,0.005
+91303,Packaging and industrial converting paper,0.042,0.041
+91305,All other coated and processed papers,0.012,0.012
+914,Paperboard,0.006,0.006
+91405,"Corrugated paperboard in sheets and rolls, lined and unlined",0.006,0.006
+915,Converted paper and paperboard products,0.364,0.365
+91501,"Sanitary paper products, including stock",0.199,0.201
+91502,"Paper, plastic, and foil bags",0.026,0.026
+91503,Paper boxes and containers,0.039,0.039
+91504,"Other corrugated and solid fiber products, including containers, pallets, pads, etc.",0.005,0.005
+91506,Office supplies and accessories,0.067,0.067
+91507,"Fiber cans, tubes, and similar fiber products",0.002,0.002
+91508,"Molded pulp goods, including egg cartons, florists pots, food trays, etc.",0.002,0.002
+91509,Miscellaneous converted paper and paperboard products,0.023,0.023
+916,Pressure-sensitive products,0.02,0.02
+91601,Pressure-sensitive products,0.02,0.02
+92,Building paper & building board mill prods.,0.006,0.006
+922,"Hardboard, particleboard & fiberboard prods.",0.006,0.006
+92201,Particleboard and fiberboard,0.005,0.005
+92202,Hardboard products,0.001,0.001
+923,Cellulosic insulating fiberboard,0,0
+92301,Cellulosic fiberboard (insulating board),0,0
+94,"Publications, printed matter and printing material",0.22,0.223
+944,Books printing,0.014,0.014
+94401,Books printing,0.014,0.014
+945,Manifold business forms printing,0.007,0.007
+94501,Manifold business forms printing,0.007,0.007
+947,Commercial printing,0.184,0.186
+94701,Magazine and periodical printing,0.016,0.016
+94702,Label and wrapper printing for packaging,0.034,0.034
+94703,Catalog and directory printing,0.013,0.013
+94704,Financial and legal printing (lithographic),0.006,0.007
+94705,Advertising printing,0.043,0.045
+94706,Other general job printing,0.029,0.029
+94711,"Other commercial printing, incl. screen, engraving, digital, & general job exc. labels/wrappers",0.042,0.043
+948,"Blankbooks, binders, and bookbinding work",0.012,0.012
+94801,"Checkbooks, blankbooks, looseleaf binders, and devices",0.01,0.01
+94802,Tradebinding and related work,0.002,0.002
+949,Services for the printing trade,0.003,0.003
+94905,"Prepress services, including platemaking",0.003,0.003
+10,Metals and metal products,1.1,1.028
+101,Iron and steel,0.33,0.258
+1011,Iron ores,0.011,0.011
+101105,Iron ores,0.011,0.011
+1012,Iron and steel scrap,0.183,0.133
+101211,Carbon steel scrap,0.164,0.118
+101212,Stainless and other alloy steel scrap,0.009,0.009
+101213,Cast iron scrap,0.007,0.005
+101215,Other ferrous scrap,0.003,0.002
+1015,Foundry and forge shop products,0.004,0.004
+101502,"Pressure and soil pipe & fittings, cast iron",0,0
+101504,Other gray and ductile iron castings,0.001,0.001
+101505,Standard and pearlitic malleable iron castings,0,0
+101506,Steel investment castings,0.001,0.001
+101507,"Carbon steel castings, except investment",0,0
+101508,"High alloy steel castings, excluding investment",0,0
+101509,"Other alloy steel castings, except investment",0,0
+101513,Other forge shop products,0.001,0.001
+1017,Steel mill products,0.132,0.109
+101702,Semifinished steel mill products,0.016,0.013
+101703,"Hot rolled steel sheet and strip, including tin mill products",0.037,0.027
+101704,"Hot rolled steel bars, plates, and structural shapes",0.027,0.022
+101705,Steel wire,0,0
+101706,Steel pipe and tube,0.02,0.018
+101707,Cold rolled steel sheet and strip,0.025,0.022
+101708,Cold finished steel bars and bar shapes,0.003,0.003
+101712,Electrometallurgical ferroalloy products,0.002,0.002
+102,Nonferrous metals,0.279,0.28
+1021,Nonferrous metal ores,0.027,0.029
+102102,Copper ores,0.018,0.018
+102105,Gold ores,0.003,0.003
+102106,Lead and zinc ores,0.005,0.004
+102112,Other metal ores,0.001,0.002
+1022,Primary nonferrous metals,0.013,0.013
+102201,Primary nonferrous metals,0.013,0.013
+1023,Nonferrous scrap,0.102,0.104
+102301,Copper base scrap,0.03,0.028
+102302,Aluminum base scrap,0.036,0.028
+102303,"Other nonferrous scrap (including lead, zinc and precious metals)",0.036,0.049
+1024,Secondary nonferrous metals,0.022,0.024
+102403,"Secondary copper, alloyed and unalloyed",0.002,0.002
+102406,Secondary precious metals,0.013,0.016
+102408,"All other miscellaneous secondary nonferrous metals, including lead",0.006,0.006
+102409,"Refined zinc, slab and dust",0.001,0
+1025,Nonferrous mill shapes,0.074,0.071
+102501,Aluminum mill shapes,0.043,0.04
+102502,Copper and brass mill shapes,0.014,0.013
+102504,Nickel and nickel-base alloy mill shapes,0.005,0.005
+102505,Titanium and titanium-base alloy mill shapes,0.005,0.005
+102519,Other nonferrous mill shapes,0.007,0.007
+1026,Nonferrous wire and cable,0.041,0.04
+102603,Nonferrous wire and cable,0.041,0.04
+103,Metal containers,0.014,0.014
+1031,Metal cans and can components,0.011,0.011
+103102,Steel cans and tinware end products,0.004,0.004
+103103,Aluminum cans and can components,0.007,0.007
+1032,"Barrels, drums, pails and other metal containers",0.003,0.003
+103201,"Barrels, drums, pails and other metal containers",0.003,0.003
+104,Hardware,0.051,0.052
+1041,"Hardware, n.e.c.",0.015,0.015
+104101,Builders' hardware,0.007,0.007
+104103,Transportation equipment hardware,0.005,0.005
+104104,Furniture hardware,0.001,0.001
+104105,Other miscellaneous hardware,0.002,0.001
+1042,Hand and edge tools,0.037,0.037
+104201,Hand and edge tools,0.037,0.037
+105,Plumbing fixtures and fittings,0.004,0.004
+1052,Vitreous china plumbing fixtures and china & earthenware bathroom accessories,0.002,0.002
+105201,"Vitreous plumbing fixtures, china lavatories, & flush tanks, incl. plumbing accessories",0.002,0.002
+1054,Plumbing fixture fittings and trim,0.001,0.001
+105402,"Plumbing fixtures, fittings, and trim",0.001,0.001
+1056,Enameled iron & metal sanitary ware,0.001,0.001
+105601,Enameled iron and metal sanitary ware,0.001,0.001
+106,Heating equipment,0.048,0.05
+1061,Steam and hot water equipment,0.006,0.006
+106101,Steam and hot water equipment,0.006,0.006
+1062,"Furnaces and heaters, including parts",0.014,0.015
+106201,"Furnaces and heaters, including parts",0.014,0.015
+1063,"Other heating equipment, non-electric, including parts",0.012,0.012
+106301,"Other heating equipment, non-electric, including parts",0.012,0.012
+1064,Domestic heating stoves,0.003,0.003
+106401,Domestic heating stoves,0.003,0.003
+1066,Domestic water heaters,0.014,0.014
+106601,Domestic water heaters,0.014,0.014
+107,Fabricated structural metal products,0.137,0.136
+1071,"Metal doors, sash, and trim",0.002,0.002
+107102,Metal doors and frames (except storm),0.002,0.002
+1072,Metal tanks,0.054,0.054
+107201,Metal tanks,0.054,0.054
+1073,Sheet metal products,0.007,0.007
+107301,Sheet metal products,0.007,0.007
+1074,"Structural, architectural, and pre-engineered metal products",0.023,0.022
+107405,Fabricated structural metal,0.01,0.01
+107408,Ornamental and architectural metal work,0.002,0.002
+107411,"Fabricated metal pipe, tube, and fittings",0.011,0.01
+1075,Heat exchangers and steam condensers,0.034,0.034
+107501,Heat exchangers and steam condensers,0.034,0.034
+1076,Fabricated steel plate,0.003,0.003
+107601,Fabricated steel plate,0.003,0.003
+1077,Stationary and marine power boilers,0.007,0.007
+107701,Stationary and marine power boilers,0.007,0.007
+1079,Prefabricated metal buildings,0.008,0.007
+107901,"Prefabricated metal building systems (excl. farm service bldgs, residential bldgs, and parts)",0,0
+107902,"Farm service buildings and other prefabricated and portable buildings, steel and aluminum",0.003,0.003
+107903,"Panels, parts, and sections for prefabricated buildings, steel and aluminum",0.004,0.004
+108,Miscellaneous metal products,0.238,0.234
+1081,"Bolts, nuts, screws, rivets, and washers",0.01,0.01
+108102,"Externally threaded fasteners, except aircraft types",0.004,0.004
+108103,"Internally threaded fasteners, except aircraft types",0.001,0.001
+108104,"Nonthreaded metal fasteners, except aircraft types",0.001,0.001
+108105,"Aircraft fasteners, except plastics (including aerospace)",0.002,0.002
+108106,"Formed products, except fasteners, made by cold-, warm-, or hot-heading processes",0.001,0.001
+1083,Lighting fixtures,0.027,0.027
+108302,"Residential electric lighting fixtures, except portable",0.002,0.002
+108303,"Commercial, institutional and industrial electric lighting fixtures",0.013,0.013
+108305,Other lighting equipment,0.012,0.012
+1085,"Ammunition, except for small arms",0.023,0.023
+108501,"Ammunition, except for small arms",0.023,0.023
+1086,"Ordnance and ordnance accessories, n.e.c.",0.011,0.01
+108601,"Ordnance and ordnance accessories, n.e.c.",0.011,0.01
+1088,Fabricated ferrous wire products,0.015,0.014
+108801,"Ferrous wire rope, cable, forms and strand",0.003,0.003
+108807,"Ferrous wire cloth, other woven wire products",0.001,0.001
+108809,Other fabricated ferrous wire products,0.01,0.01
+108812,"Steel nails, staples, tacks, spikes and brads",0.001,0.001
+1089,Other miscellaneous metal products,0.153,0.15
+108904,Wire springs,0,0
+108905,Other metal products,0.118,0.117
+108907,Metal stampings n.e.c.,0.013,0.012
+108908,Metal foil and leaf,0.019,0.019
+108909,Heavy gauge springs,0.002,0.002
+108911,Metal crowns and closures,0.001,0
+11,Machinery and equipment,5.717,5.619
+111,Agricultural machinery and equipment,0.357,0.241
+1114,Agricultural machinery and equipment,0.357,0.241
+111401,"Commercial turf and grounds care equipment, including parts and attachments",0.025,0.025
+111402,"Farm plows, harrows, rollers, pulverizers, etc., and attachments",0.016,0.016
+111403,Farm-type (power take-off hp) wheel tractors (2/4-wheel drive)(with or without attachments),0.119,0
+111404,"Farm dairy equipment, sprayers and dusters, farm blowers, and attachments",0.025,0.025
+111405,"Planting, seeding, and fertilizing machinery and attachments",0.024,0.023
+111406,Harvesting machinery (except hay and straw) and attachments,0.076,0.078
+111407,Haying machinery and attachments,0.023,0.023
+111408,"All other farm machinery and equipment, excluding parts, including attachments",0.038,0.038
+111409,"Parts for farm machinery, for sale separately",0.011,0.011
+112,Construction machinery and equipment,0.465,0.471
+112A,"Tractors and attachments, ex. parts",0.148,0.151
+112A03,"Construction machinery for mounting (excluding parts, winches, snow clearing attachments)",0.01,0.011
+112A04,"Tractor shovel loaders (skid steer, wheel, crawler, and integral design backhoes)",0.057,0.057
+112A05,"Construction wheel and crawler tractors, dozers, self-propelled log skidders, etc.",0.081,0.083
+112B,"Power cranes, draglines, & shovels (excavators) (incl. surface mining equipment) (excl. parts)",0.112,0.113
+112B05,"Power cranes, draglines, & shovels (excavators) (incl. surface mining equip.) (excluding parts)",0.112,0.113
+112C,"Mixers, pavers, and related equipment (excluding parts)",0.013,0.013
+112C01,"Mixers, pavers, and related equipment (excluding parts)",0.013,0.013
+112D,"Off-highway, equipment, ex. parts",0.045,0.045
+112D02,"Off-highway trucks, haulers, truck-type tractor chassis, trailers, etc. (excluding parts)",0.018,0.018
+112D03,"Graders, rollers & compactors, rough-terrain forklifts, scrapers, trenchers, etc. (excl. parts)",0.027,0.027
+112J,Misc. construction machinery and equipment,0.134,0.135
+112J01,"Winches, aerial work platforms, and automotive wrecker hoists",0.06,0.06
+112J03,Other construction machinery and equipment (excluding parts),0.075,0.075
+112K,"Parts for construction machinery and equipment, sold separately",0.014,0.014
+112K01,"Parts for construction machinery and equipment, sold separately",0.014,0.014
+113,Metalworking machinery and equipment,0.386,0.385
+1132,"Power-driven handtools, including parts and attachments",0.041,0.041
+113211,"Power-driven handtools, including parts and attachments",0.041,0.041
+1133,Welding machines and equipment,0.049,0.049
+113301,"Arc welding machines, components, and accessories, excluding electrodes and stud welding equip",0.021,0.021
+113302,"Resistance welders, components, accessories, and electrodes",0.008,0.008
+113303,"Arc welding electrodes, metal",0.005,0.005
+113304,"Gas welding and cutting equipment, parts, attachments, and accessories",0.005,0.005
+113306,"Other welding equipment, components, and accessories (excluding arc, resistance, and gas)",0.009,0.009
+1134,Industrial process furnaces and ovens,0.025,0.025
+113407,"Industrial process furnaces and ovens, except parts and attachments",0.021,0.022
+113409,Parts and attachments for industrial process furnaces and ovens,0.003,0.003
+1135,Cutting tools and accessories,0.023,0.024
+113501,Small cutting tools,0.013,0.013
+113502,Precision measuring tools,0.006,0.006
+113505,Other machine tool attachments and accessories,0.005,0.005
+1136,Abrasive products,0.017,0.017
+113601,"Nonmetallic sized grains, powders, and flour abrasives (incl. graded only)",0.004,0.004
+113603,Nonmetallic abrasive products (including diamond abrasives),0.004,0.004
+113605,"Nonmetallic coated abrasive products and buffing wheels, polishing wheels, and laps",0.008,0.008
+113632,"Metal abrasives including steel and iron grid, shot, and sand, and other metal abrasives",0.002,0.002
+1137,Metal cutting machine tools,0.048,0.048
+113713,"Metal grinding, polishing, buffing, honing, and lapping machines",0.007,0.007
+113720,Other metal-cutting machine tools,0.027,0.027
+113721,Metal machining centers,0.013,0.013
+113753,Rebuilt metal-cutting machine tools and parts for metal-cutting machine tools,0.001,0.001
+1138,Metal forming machine tools,0.019,0.02
+113826,Metal-forming machine tools (except rebuilt and parts),0.016,0.016
+113852,Rebuilt metal-forming machine tools and parts for metal-forming machine tools,0.004,0.004
+1139,"Tools, dies, jigs, fixtures & ind. molds",0.132,0.13
+113901,"Special tools, dies, jigs, and fixtures",0.076,0.075
+113903,Industrial molds and mold boxes,0.057,0.055
+113A,Metalworking machinery n. e. c.,0.022,0.022
+113A01,Metalworking assembly machines,0.016,0.016
+113A02,Other metalworking machinery,0.006,0.006
+113B,Rolling mill machinery,0.009,0.009
+113B01,Rolling mill machinery,0.009,0.009
+114,General purpose machinery and equipment,0.849,0.858
+1141,"Pumps, compressors, and equipment",0.239,0.239
+114102,"Industrial pumps, except hydraulic fluid power pumps",0.059,0.06
+114107,Parts and attachments for air and gas compressors and vacuum pumps,0.013,0.012
+114108,Industrial spraying equipment,0.011,0.011
+114109,Measuring and dispensing pumps and parts and attachments,0.015,0.015
+114113,Domestic water systems,0.013,0.013
+114115,Air and gas compressors and vacuum pumps,0.066,0.067
+114119,"Other pumps, including parts and attachments",0.062,0.06
+1142,"Elevators, escalators, and other lifts",0.003,0.003
+114201,Elevators and moving stairways,0.002,0.002
+114202,Parts and attachments for elevators and moving stairs (sold separately),0.001,0.001
+1143,Fluid power equipment,0.056,0.056
+114301,Fluid power pumps and parts,0.01,0.01
+114302,Fluid power valves,0.017,0.017
+114303,"Fluid power cylinders, actuators, accumulators, cushions, & parts",0.018,0.019
+114304,Fluid power hose and tube fittings,0.01,0.01
+114305,Parts for fluid power valves,0.001,0.001
+1144,Industrial material handling equipment,0.189,0.189
+114402,"Conveying equipment, except parts and accessories",0.069,0.069
+114403,"Industrial trucks, trailers, and stackers",0.103,0.103
+114404,"Hoists, overhead cranes, and monorail systems",0.017,0.017
+1145,Mechanical power transmission equipment,0.019,0.019
+114501,"Speed changers, drives, gears",0.01,0.01
+114502,Other power transmission equipment,0.009,0.009
+1146,Scales and balances,0.008,0.008
+114611,Vehicle and industrial scales,0.005,0.005
+114612,"Retail, commercial, household, and mailing scales and balances",0.002,0.002
+114613,"Parts, attachments, and accessories for scales and balances",0.001,0.001
+1147,Air purification equipment and industrial and commercial fans and blowers,0.038,0.039
+114701,"Fan, blower, air purification equipment",0.038,0.039
+1148,Air conditioning and refrigeration equip,0.109,0.113
+114802,"Unitary air-conditioners, except air source heat pumps",0.023,0.024
+114803,Commercial refrigeration equipment,0.043,0.044
+114806,All other miscellaneous refrigeration and air-conditioning equipment,0.006,0.006
+114807,"Heat transfer equipment, including heat pumps",0.026,0.026
+114808,"Refrigerant compressors, except automotive",0.007,0.007
+114809,Parts and accessories for air conditioning and heat transfer equipment,0.004,0.004
+114815,Refrigeration condensing units,-,0.002
+1149,Miscellaneous general purpose equipment,0.189,0.192
+114902,"Metal valves, except fluid power",0.048,0.048
+114903,"Metal pipe fittings, flanges, and unions",0.012,0.012
+114905,Ball and roller bearings,0.018,0.019
+114907,Industrial patterns,0.003,0.003
+114908,Filters and strainers,0.025,0.026
+114911,Other miscellaneous general purpose equipment,0.083,0.084
+115,Electronic computers and computer equipment,0.149,0.139
+1151,Electronic computers,0.058,0.052
+115101,Electronic computers,0.058,0.052
+1152,Computer storage devices,0.034,0.035
+115201,"Computer storage devices (excluding parts, attachments and accessories)",0.032,0.033
+115203,"Parts, attachments and accessories for computer storage devices",0.003,0.003
+1154,Computer peripheral equipment and parts,0.057,0.052
+115405,"Parts, attachments & accessories for computer and POS terminals and computer peripherals",0.006,0.006
+115406,"POS terminals, funds-transfer devices, computer terminals & other computer peripheral equip.",0.051,0.046
+116,Special industry machinery and equipment,0.468,0.471
+1161,Food products machinery,0.041,0.041
+116101,Dairy and milk products plant machinery and equipment,0.008,0.008
+116104,Commercial food products machinery (except packaging and cooking equipment),0.018,0.018
+116105,"Industrial food products machinery for processing foods, beverages, & animal & fowl feed",0.015,0.015
+1162,Textile machinery and equipment,0.005,0.005
+116212,"Textile machinery (except parts, attachments, and accessories)",0.004,0.004
+116277,Textile machinery parts and attachments,0.001,0.001
+1163,Sawmill and woodworking machinery,0.006,0.006
+116306,Sawmill and woodworking machinery,0.006,0.006
+1164,Paper industries machinery,0.023,0.023
+116401,Paper industries machinery,0.023,0.023
+1165,Printing trades machinery and equipment,0.018,0.018
+116508,Printing presses,0.004,0.004
+116509,Other printing machinery and equipment,0.014,0.014
+1166,Other special industry machinery,0.19,0.193
+116603,Plastics and rubber working machinery,0.028,0.029
+116606,Miscellaneous special industry machinery,0.161,0.164
+1167,"Packing, packaging, and bottling machinery and parts",0.048,0.048
+116705,"Packing, packaging, and bottling machinery and parts",0.048,0.048
+1168,Service industry machinery and parts,0.125,0.125
+116801,Service industry machinery and parts,0.125,0.125
+1169,Commercial laundry and drycleaning machinery products,0.012,0.012
+116909,Commercial laundry and drycleaning machinery products,0.012,0.012
+117,Electrical machinery and equipment,1.983,1.99
+1171,Wiring devices,0.023,0.023
+117101,Current-carrying wiring devices,0.011,0.011
+117102,Noncurrent-carrying wiring devices,0.012,0.012
+1172,Integrating and measuring instruments,0.104,0.103
+117205,"Test equipment for electrical, radio, & communication circuits & motors",0.069,0.068
+117209,Electrical integrating instruments and other instruments to measure electricity,0.035,0.035
+1173,"Motors, generators, motor generator sets",0.047,0.047
+117303,Fractional horsepower motors and generators,0.009,0.009
+117304,Integral horsepower motors and generators (excluding land transportation types),0.013,0.013
+117309,Parts and supplies for motors and generators,0.003,0.003
+117311,Other motors and generators,0.022,0.023
+1174,Transformers and power regulators,0.052,0.053
+117409,"Power and distribution transformers, except parts",0.042,0.043
+117411,Other transformers and parts for transformers,0.01,0.01
+1175,"Switchgear, switchboard, industrial controls equipment",0.103,0.105
+117507,Industrial controls and related parts and accessories,0.043,0.043
+117522,Switchgear and switchboard apparatus,0.06,0.062
+1176,Communications and related equipment and miscellaneous electronic systems & equipment,0.8,0.823
+117601,Telephone and wireline data networking equipment,0.049,0.048
+117603,"Other communications and related equipment, including broadcast and wireless",0.253,0.255
+117605,"Electronic systems and equipment, n.e.c.",0.045,0.045
+117606,"Search, detection, navigation & guidance systems and equipment",0.453,0.475
+1177,"Electric lamp bulbs, tubes, and components",0.01,0.007
+117704,"Electric lamp bulbs, tubes, and components",0.009,0.007
+117706,Parts for electric lamps and bulbs,0,-
+1178,Electronic components and accessories,0.365,0.358
+117806,"Electron tubes and parts, excluding glass blanks",0.005,0.005
+117811,Capacitors for electronic circuitry,0.007,0.007
+117812,Resistors for electronic circuitry,0.001,0.001
+117821,"Relays for electronic circuitry, industrial control overload, and switchgear type",0.006,0.006
+117822,"Switches, mechanical (electronic applications)",0.004,0.004
+117824,Connectors for electronic circuitry,0.019,0.019
+117825,Magnetic and optical recording media,0.001,-
+117828,"Filters, crystals, and transducers",0.006,0.006
+117839,Integrated microcircuits,0.154,0.15
+117847,Other semiconductor and related devices,0.057,0.055
+117849,Bare printed circuit boards,0.016,0.016
+117853,"Electronic coils, transformers, and other inductors",0.007,0.007
+117856,"Other electronic components, n.e.c.",0.023,0.024
+117861,"Printed circuit assemblies, loaded boards, modules and consumer external modems",0.058,0.057
+1179,Miscellaneous electrical machinery and equipment,0.479,0.471
+117901,Storage batteries,0.034,0.033
+117902,Primary batteries,0.042,0.044
+117903,Carbon and graphite products,0.018,0.013
+117905,X-ray and electromedical equipment,0.335,0.331
+117929,Miscellaneous electrical industrial apparatus,0.048,0.048
+117939,"All other electrical equipment and components, except industrial",0.002,0.002
+118,Miscellaneous instruments,0.464,0.467
+1181,"Automatic environmental controls for monitoring residential, commercial, and appliance use",0.002,0.003
+118105,"Automatic environmental controls for monitoring residential, commercial, and appliance use",0.002,0.003
+1182,Industrial process control instruments,0.097,0.096
+118201,Industrial process control instruments,0.097,0.096
+1184,Fluid meters and counting devices,0.033,0.034
+118401,Fluid meters and counting devices,0.033,0.034
+1185,Engineering and scientific instruments,0.066,0.067
+118501,"Aeronautical, nautical, and navigational instruments",0.037,0.038
+118504,Hospital beds and specialized hospital furniture,0.02,0.019
+118506,Surveying and drafting instruments,0.009,0.009
+1186,Measuring instruments and lenses,0.181,0.183
+118601,"Sighting, tracking, and fire-control equipment, optical type",0.021,0.02
+118602,All other miscellaneous optical instruments and lenses,0.023,0.023
+118603,Laboratory analytical instruments,0.138,0.14
+1189,"Measuring & controlling devices, n.e.c.",0.084,0.085
+118901,Aircraft engine instruments,0.014,0.014
+118904,Nuclear radiation detection & monitoring instruments,0.01,0.01
+118905,Physical properties and kinematic testing equipment,0.03,0.03
+118906,"Commercial, geophysical, meteorological & general-purpose instruments",0.03,0.031
+119,Miscellaneous machinery,0.597,0.598
+1191,Oil field and gas field machinery,0.236,0.234
+119102,Oil field and gas field drilling machinery (except parts sold separately),0.168,0.167
+119104,Oil field and gas field production machinery (except pumps and parts sold separately),0.055,0.054
+119106,Parts and attachments for oil and gas field machinery and equipment,0.013,0.013
+1192,Mining machinery and equipment,0.068,0.069
+119201,Underground mining machinery (except parts sold separately),0.041,-
+119202,"Crushing, pulverizing, & screening machinery (except parts sold separately)",0.011,-
+119203,Drills and other mining machinery (except parts sold separately),0.004,-
+119206,Mineral processing & beneficiation machinery (except parts sold separately),0.002,-
+119207,Mining machinery and equipment (except parts sold separately),-,0.06
+119253,Parts and attachments for mining machinery and equipment (sold separately),0.009,0.009
+1193,Office and store machines and equipment,0.033,0.033
+119307,"Office machinery, including mailing, letter handling, and addressing machines and parts",0.007,0.007
+119309,Coin-operated machines and mechanisms,0.026,0.026
+1194,Internal combustion engines,0.101,0.101
+119401,"Gasoline engines (except aircraft, automobile, highway truck, bus & tank)",0.013,0.013
+119407,"Diesel, semidiesel, and dual-fuel engines (except automotive)",0.023,0.023
+119408,"Diesel, semidiesel, and dual-fuel engines for automobiles, trucks, and buses",0.039,0.039
+119413,"Parts & accessories for internal combustion engines, ex. aircraft & gasoline automotive engines",0.016,0.016
+119420,Miscellaneous engine equipment,0.011,0.011
+1195,Machine shop products,0.01,0.01
+119505,Machine shop products,0.01,0.01
+1197,Turbines and turbine generator sets,0.14,0.143
+119701,Turbines and turbine generator sets (excluding parts),0.14,0.143
+1198,"Parts & accesories for turbines, turbine generators, and turbine generator sets",0.007,0.007
+119801,"Parts & accesories for turbines, turbine generators, and turbine generator sets",0.007,0.007
+12,Furniture and household durables,0.925,0.933
+121,Household furniture,0.255,0.256
+1211,Metal household furniture,0.015,0.017
+121101,Metal household furniture,0.015,0.017
+1212,Wood household furniture,0.043,0.043
+121201,"Living room furniture (nonupholstered), wood",0.013,0.013
+121202,"Dining room furniture (nonupholstered), wood",0.008,0.008
+121203,"Bedroom furniture (nonupholstered), wood",0.014,0.014
+121204,Other wood household furniture,0.006,0.006
+121205,"Custom nonupholstered wood household furniture sold direct, excl. kitchen cabinets and vanities",0.002,0.002
+1213,Upholstered household furniture,0.097,0.097
+121301,Upholstered household furniture,0.097,0.097
+1214,Bedding,0.088,0.087
+121401,Bedding,0.088,0.087
+1215,"Metal porch, lawn, outdoor & casual furniture",0.006,0.006
+121501,Porch and lawn furniture,0.006,0.006
+1216,"Nonupholstered household furniture, except wood and metal",0.006,0.006
+121601,"Nonupholstered household furniture, except wood and metal",0.006,0.006
+122,Commercial furniture,0.256,0.259
+1221,Wood office furniture and store fixtures,0.082,0.083
+122101,Wood office furniture and store fixtures,0.082,0.083
+1222,Nonwood furniture and store fixtures,0.124,0.125
+122202,"Nonwood commercial storage units, files, and tables",0.026,0.027
+122203,Nonwood commercial furniture,0.062,0.063
+122204,Nonwood partitions and fixtures,0.035,0.035
+1223,Public building furniture,0.027,0.027
+122301,Public building furniture,0.027,0.027
+1224,"Commercial furniture and fixtures, n.e.c.",0.023,0.024
+122401,"Commercial furniture and fixtures, n.e.c.",0.023,0.024
+123,Floor coverings,0.102,0.101
+1231,Carpets and rugs,0.091,0.089
+123101,Carpet and rugs,0.091,0.089
+1232,Resilient floor coverings,0.012,0.012
+123201,Resilient floor coverings,0.012,0.012
+124,Household appliances,0.162,0.166
+1241,Major appliances,0.128,0.132
+124101,Household cooking appliances,0.041,0.043
+124102,Household laundry equipment and parts,0.038,0.038
+124103,Household refrigeration equipment,0.035,0.037
+124104,Other major household appliances including room air-conditioners,0.014,0.014
+1243,"Household vacuum cleaners, including parts and attachments",0.009,0.009
+124301,"Household vacuum cleaners, including parts and attachments",0.009,0.009
+1244,Electric housewares and fans,0.019,0.019
+124401,"Small electric household appliances, except fans and wall and baseboard heating units",0.013,0.013
+124402,"Electric fans, except industrial-type",0.006,0.006
+124403,Parts and attachments for small household electric appliances,0,0
+1245,"Portable residential lighting fixtures, including parts and accessories",0.006,0.006
+124501,"Portable residential lighting fixtures, including parts and accessories",0.006,0.006
+125,Home electronic equipment,0.026,0.026
+1257,Speakers and commercial sound equipment,0.014,0.014
+125707,Speakers and commercial sound equipment,0.014,0.014
+1258,Other home electronic equipment,0.012,0.012
+125801,Automotive audio equipment (excluding speakers),0,0
+125803,"Other consumer audio and video equipment, including television receivers",0.012,0.012
+126,Other household durable goods,0.124,0.124
+1261,"Vitreous china, fine earthenware, and other pottery products",0.005,0.005
+126101,"Vitreous china, porcelain, and earthenware table and kitchenware and other pottery products",0.005,0.005
+1265,Mirrors (decorated and undecorated),0.008,0.008
+126501,"Mirrors (decorated and undecorated), made from purchased glass",0.008,0.008
+1266,Lawn/garden equipment,0.065,0.065
+126605,"Parts and attachments for consumer lawn, garden, and snow equipment",0.008,0.008
+126607,"Consumer lawn, garden, and snow equipment",0.057,0.057
+1267,"Cutlery, flatware (except precious), razors and razor blades",0.022,0.021
+126701,"Cutlery, flatware (except precious), razors and razor blades",0.022,0.021
+1268,"Metal kitchen utensil, pots, and pans",0.006,0.006
+126801,"Metal kitchen utensil, pots, and pans",0.006,0.006
+1269,"Window shades, blinds, and accessories",0.018,0.019
+126901,"Window shades, blinds, and accessories",0.018,0.019
+13,Nonmetallic mineral products,0.173,0.173
+131,Glass,0.047,0.047
+1311,Flat glass,0.033,0.033
+131105,"Flat glass (float, sheet, and plate process)",0.004,0.004
+131107,Specialty glass,0.03,0.029
+1313,Other finished glassware,0.013,0.013
+131301,Pressed and blown glassware,0.013,0.013
+131701,Recyclable glass,0.001,0.001
+132,Concrete ingredients and related products,0.013,0.013
+1321,"Construction sand, gravel, and crushed stone",0.012,0.013
+132101,"Construction sand, gravel and crushed stone",0.012,0.013
+1322,"Cement, hydraulic",0.001,0.001
+132201,"Cement, hydraulic",0.001,0.001
+133,Concrete products,0.007,0.007
+1331,Concrete block and brick,0.001,0.001
+133111,Structural concrete block,0,0
+133121,Decorative concrete block,0,0
+133131,Concrete brick,0,0
+133141,Concrete pavers,0,0
+1332,Concrete pipe,0.001,0.001
+133201,Concrete pipe,0.001,0.001
+1333,Ready-mix concrete,0.004,0.004
+133301,Ready-mix concrete,0.004,0.004
+1334,Precast concrete products,0.001,0.001
+133401,Precast concrete products,0.001,0.001
+1335,Prestressed concrete products,0,0
+133501,Prestressed concrete products,0,0
+134,Clay construction products ex. refractories,0,0
+1342,Brick and structural clay tile,0,0
+134201,Building or common brick,0,0
+134202,"Glazed brick and other brick (paving, floor, and sewer)",0,0
+1344,"Clay floor and wall tile, glazed and unglazed",0,0
+134401,"Clay floor and wall tile, glazed and unglazed (including quarry tile and ceramic mosaic tile)",0,0
+1345,"Structural clay products, n.e.c.",0,0
+134501,"Structural clay products, n.e.c.",0,0
+135,Refractories,0.004,0.005
+1352,Clay refractories,0.002,0.002
+135201,Clay refractories,0.002,0.002
+1353,Nonclay refractories,0.003,0.003
+135301,Nonclay refractories (excluding dead-burned magnesia),0.003,0.003
+136,Asphalt felts and coatings,0.007,0.007
+1361,Prepared asphalt and tar roofing and siding products,0.006,0.006
+136101,Prepared asphalt and tar roofing and siding products,0.006,0.006
+1362,"Roofing asphalts, pitches, coatings, and cement",0.001,0.001
+136201,"Roofing asphalts, pitches, coatings, and cement",0.001,0.001
+137,Gypsum products,0.001,0.001
+1371,Gypsum products,0.001,0.001
+137101,Gypsum products,0.001,0.001
+138,Glass containers,0.009,0.009
+1381,Glass containers,0.009,0.009
+138101,Glass containers (including value of packaging),0.009,0.009
+139,Other nonmetallic minerals,0.085,0.084
+1392,Insulation materials,0.01,0.01
+139201,Mineral wool for thermal and acoustical envelope insulation,0.004,0.003
+139202,"Mineral wool for industrial, equipment, and appliance insulation",0.006,0.006
+1394,Paving mixtures and blocks,0.031,0.03
+139401,Paving mixtures and blocks,0.031,0.03
+1395,Cut stone and stone products,0.019,0.02
+139501,Cut stone and stone products,0.019,0.02
+1398,"Gaskets, packing, and sealing devices",0.011,0.011
+139801,Gaskets and gasketing material,0.006,0.006
+139802,Packing and sealing,0.005,0.005
+1399,"Nonmetallic minerals and products, n.e.c.",0.014,0.013
+139901,Industrial sand,0.003,0.003
+139902,Clay and stone mining and quarrying,0.006,0.006
+139903,All other miscellaneous nonmetallic mineral products,0.005,0.005
+14,Transportation equipment,5.884,5.775
+141,Motor vehicles and equipment,3.731,3.687
+1411,Motor vehicles,2.955,2.912
+141101,Passenger cars and chassis,1.098,1.088
+141104,"Motorcycles, including three-wheel motorbikes, motorscooters, mopeds, and parts",0.055,0.055
+141105,"Trucks, truck tractors, & bus chassis 14,000 lb or less, incl. minivans & suvs",1.468,1.438
+141106,"Trucks, over 14,000 lbs GVW",0.334,0.331
+1412,Motor vehicles parts,0.495,0.489
+141205,Motor vehicles parts,0.495,0.489
+1413,Truck and bus bodies,0.072,0.073
+141301,Truck and bus bodies sold separately,0.003,0.003
+141302,Complete vehicles on purchased chassis,0.069,0.071
+1414,Truck trailers,0.09,0.091
+141406,Truck trailers,0.09,0.091
+1415,"Motor homes, built on purchased chassis",0.027,0.027
+141501,"Motor homes, built on purchased chassis",0.027,0.027
+1416,Travel trailers and campers,0.093,0.094
+141601,Travel trailers,0.073,0.074
+141602,"Camping trailers, campers, pick-up covers, and parts",0.02,0.02
+142,Aircraft and aircraft equipment,1.674,1.678
+1421,Aircraft,1.179,1.182
+142102,Civilian aircraft,0.768,0.775
+142104,Military aircraft,0.412,0.407
+1423,Aircraft engine and engine parts,0.212,0.213
+142301,Aircraft engine and engine parts,0.212,0.213
+1425,Other aircraft parts and equipment,0.283,0.283
+142501,Other aircraft parts and equipment,0.283,0.283
+143,Ships and boats,0.261,0.266
+1431,Ships,0.184,0.186
+143102,"Military self-propelled ships, new construction",0.137,0.136
+143103,"Nonmilitary self-propelled ships, new construction",0.017,0.018
+143104,"Nonpropelled ships, new construction",0.03,0.032
+1432,Boats,0.077,0.079
+143201,"Outboard motorboats, including commercial and military (except sailboats and lifeboats)",0.039,0.04
+143202,"Inboard motorboats, including commercial and military (except sailboats and lifeboats)",0.017,0.017
+143203,"Inboard-outdrive boats, including commercial and military (except sailboats and lifeboats)",0.015,0.015
+143204,All other boats (excluding military and commercial),0.006,0.006
+144,Railroad equipment,0.128,0.055
+1441,"Locomotives, new and rebuilt, including parts",0.073,0
+144104,"Locomotives, new and rebuilt, including parts",0.073,0
+1442,Railroad cars and car parts,0.055,0.055
+144203,"Railway maintenance of way equipment & parts, railcar parts, & other railway vehicles",0.004,0.004
+144204,Railroad cars,0.051,0.05
+149,"Transportation equipment, n.e.c.",0.09,0.09
+1491,"Transportation equipment, n.e.c.",0.09,0.09
+149111,"Other transportation equipment, incl. golf carts, vehicle trailers, and all-terrain vehicles",0.09,0.09
+15,Miscellaneous products,1.726,1.773
+151,"Toys, sporting goods, small arms, etc.",0.196,0.199
+1511,"Toys, games, and children's vehicles",0.015,0.015
+151101,"Toys, games, and children's vehicles",0.015,0.015
+1512,Sporting and athletic goods,0.102,0.106
+151201,Sporting and athletic goods,0.102,0.106
+1513,Small arms and ammunition,0.079,0.079
+151301,Small arms,0.048,0.048
+151302,Small arms ammunition,0.027,0.027
+151303,Other small arms ammunition products,0.004,0.004
+152,"Tobacco products, incl. stemmed & redried",0.541,0.567
+1521,"Cigarettes, excluding electronic",0.461,0.485
+152101,"Cigarettes, excluding electronic",0.461,0.485
+1524,Stemmed and redried tobacco,0.001,0.001
+152402,Stemmed and redried tobacco,0.001,0.001
+1525,Other tobacco products,0.079,0.082
+152501,Other tobacco products,0.079,0.082
+153,Notions,0.002,0.002
+1532,"Fasteners, zippers, buttons, needles, pins, and buckles",0.002,0.002
+153201,"Fasteners, zippers, buttons, needles, pins, and buckles",0.002,0.002
+154,Photographic equipment and supplies,0.053,0.056
+1541,Photographic and photocopying equipment,0.021,0.021
+154107,Photographic and photocopying equipment,0.021,0.021
+1542,Photographic supplies,0.032,0.035
+154206,Photographic supplies,0.032,0.035
+155,Mobile homes,0.045,0.048
+1553,"Manufactured homes (mobile homes), all sizes (incl. multisection)",0.045,0.048
+155303,Manufactured mobile homes and nonresidential mobile buildings,0.045,0.048
+156,"Medical, surgical & personal aid devices",0.564,0.564
+1562,Surgical and medical instruments,0.29,0.287
+156201,Surgical and medical instruments,0.29,0.287
+1563,Medical and surgical appliances and supplies,0.179,0.179
+156301,Medical and surgical appliances and supplies,0.179,0.179
+1564,Ophthalmic goods,0.068,0.068
+156401,Ophthalmic goods,0.068,0.068
+1565,Dental equipment and supplies,0.028,0.03
+156501,Dental equipment and supplies,0.028,0.03
+157,Other industrial safety equipment,0.02,0.02
+1571,Personal safety equipment and clothing,0.02,0.02
+157108,Personal safety equipment and clothing,0.02,0.02
+159,Other miscellaneous products,0.304,0.317
+1593,Musical instruments,0.021,0.02
+159301,Musical instruments,0.021,0.02
+1594,Jewelry and jewelry products,0.064,0.064
+159402,Jewelry (gold and platinum) and silverware,0.041,0.041
+159404,Costume jewelry and novelties,0.009,0.01
+159407,All other jewelry and personal goods (excluding costume),0.011,0.011
+159408,Jewelers' material and lapidary work,0.002,0.003
+1595,"Pens, pencils, and marking devices",0.017,0.017
+159502,"Pens, markers, mechanical pencils, and associated parts",0.005,0.005
+159503,"Lead pencils, art goods, office supplies and small office equipment, excluding paper",0.008,0.008
+159504,Marking devices,0.004,0.004
+1596,"Watches, clocks, watchcases, and parts",0.003,0.003
+159603,"Watches, clocks, watchcases, and parts",0.003,0.003
+1597,Brooms and brushes,0.018,0.018
+159705,"Brooms, brushes and mops",0.018,0.018
+159A,"Miscellaneous products, n.e.c.",0.174,0.184
+159A01,Candles,0.011,0.011
+159A04,Signs and advertising displays,0.101,0.101
+159A09,All other miscellaneous fabricated products and recyclable materials,0.061,0.072
+159C,Prerecorded audio and video media reproduction,0.009,-
+159C01,Prerecorded audio and video media reproduction,0.009,-
+159D,Reproduction of audio and video media and software,-,0.011
+159D01,Reproduction of audio and video media and software,-,0.011
+30,Transportation services,4.552,4.593
+301,Transportation of freight and mail,3.248,3.233
+3011,Rail transportation of freight and mail,0.361,0.361
+301101,Rail transportation of freight and mail,0.361,0.361
+3012,Truck transportation of freight,2.405,2.377
+301201,Local motor carrying,0.62,0.623
+301202,Long-distance motor carrying,1.785,1.754
+3013,Water transportation of freight,0.104,0.107
+301301,Deep sea water transportation of freight,0.055,0.057
+301302,Coastal and intercoastal water transportation of freight,0.02,0.02
+301303,Great Lakes-St Lawrence Seaway water transportation of freight,0.004,0.004
+301304,Inland waterways transportation of freight,0.024,0.026
+3014,Air transportation of freight,0.05,0.05
+301401,Air transportation of freight,0.05,0.05
+3015,Pipeline transportation (partial),0.023,0.023
+301501,Pipeline transportation of petroleum products,0.023,0.023
+3016,"Courier, messenger, and U.S. postal services",0.305,0.315
+301601,U.S. Postal Service,0.146,0.15
+301602,"Courier and messenger services, except air",0.113,0.116
+301603,"Air mail and package delivery services, excluding by USPS",0.047,0.049
+302,Transportation of passengers (partial),1.304,1.36
+3021,Rail transportation of passengers,0.016,0.016
+302101,Rail transportation of passengers,0.016,0.016
+3022,Airline passenger services,1.288,1.343
+302201,Airline passenger services,1.288,1.343
+31,Services related to transportation activities,0.076,0.078
+311,Services related to water transportation,0.026,0.026
+3111,"Towing, tugging, docking, and related services",0.001,0.001
+311101,"Towing, tugging, docking and related services",0.001,0.001
+3112,Operation of port waterfront terminals,0,0
+311201,Operation of port waterfront terminals,0,0
+3113,Marine cargo handling,0.025,0.026
+311301,Marine cargo handling,0.025,0.026
+312,Services related to air transportation,0.031,0.031
+3121,"Other airport operations, excluding aircraft maintenance and repair",0.031,0.031
+312101,"Other airport operations, excluding aircraft maintenance and repair",0.031,0.031
+313,Other services related to transportation activities (partial),0.02,0.02
+3131,Arrangement of freight and cargo,0.02,0.02
+313101,Arrangement of freight and cargo,0.02,0.02
+32,"Warehousing, storage, and related services",0.038,0.038
+321,"Warehousing, storage, and related services",0.038,0.038
+3211,"Warehousing, storage, and related services",0.038,0.038
+321101,"Warehousing, storage, and related services",0.038,0.038
+33,"Publishing sales, excluding software",0.716,0.733
+331,"Book, periodical, and newspaper publishing sales and subscriptions",0.506,0.522
+3311,Sales of books,0.3,0.303
+331101,Sales of textbooks,0.085,0.083
+331102,"Sales of technical, scientific, and professional books",0.084,0.091
+331103,Sales of religious books,0.016,0.016
+331104,Sales of general adult and juvenile books,0.052,0.052
+331105,Sales of general reference books,0.005,0.005
+331106,Sales of digital books,0.057,0.057
+3312,Sales and subscriptions of periodicals and newspapers,0.207,0.219
+331201,Sales and subscriptions of periodicals,0.1,0.103
+331202,Newspaper subscription and single copy sales,0.107,0.116
+332,"Directory, mailing list, and related compilations publishing sales",0.007,0.007
+3321,"Directory, mailing list, and related compilations publishing sales",0.007,0.007
+332101,"Directory, mailing list, and related compilations publishing sales",0.007,0.007
+333,Greeting card publishing sales,0.071,0.07
+3331,Greeting card publishing sales,0.071,0.07
+333101,Greeting card publishing sales,0.071,0.07
+334,"Calendars, yearbooks, and other miscellaneous publishing sales",0.021,0.022
+3341,"Calendars, yearbooks, and other miscellaneous publishing sales",0.021,0.022
+334101,"Calendars, yearbooks, and other miscellaneous publishing sales",0.021,0.022
+335,"Internet publishing and broadcasting subscription, content access, and licensing sales",0.111,0.112
+3351,"Internet publishing and broadcasting subscription, content access, and licensing sales",0.111,0.112
+335101,"Internet publishing and broadcasting subscription, content access, and licensing sales",0.111,0.112
+34,Software publishing,1.049,1.053
+341,System software publishing,0.348,0.342
+3411,System software publishing,0.348,0.342
+341101,System software publishing,0.348,0.342
+342,Application software publishing,0.701,0.711
+3421,Application software publishing,0.701,0.711
+342101,Desktop and portable device application software publishing,0.287,0.292
+342103,"Application software publishing, cross-industry, vertical market, utilities, and other",0.34,0.352
+342104,"Application software publishing, game software",0.074,0.067
+35,Network compensation from broadcast and cable television and radio,0.212,0.224
+351,"Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv",0.206,0.218
+3511,"Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv",0.206,0.218
+351101,"Affiliate agreements, programming sales, and retransmission fees for cable and broadcast tv",0.206,0.218
+352,"Affiliate agreements, programming sales, and retransmission fees for radio",0.006,0.006
+3521,"Affiliate agreements, programming sales, and retransmission fees for radio",0.006,0.006
+352101,"Affiliate agreements, programming sales, and retransmission fees for radio",0.006,0.006
+36,Advertising space and time sales,0.2,0.196
+361,"Advertising space sales in periodicals, newspapers, directories, and mailing lists",0.046,0.044
+3611,Advertising space sales in periodicals and newspapers,0.032,0.031
+361101,Advertising space sales in periodicals,0.024,0.023
+361102,Advertising space sales in newspapers,0.008,0.007
+3612,Advertising space sales in directories and mailing lists,0.014,0.014
+361201,Advertising space sales in directories and mailing lists,0.014,0.014
+362,Television advertising time sales,0.008,0.008
+3621,Television advertising time sales,0.008,0.008
+362103,Local cable system advertising time sales,0.008,0.008
+363,Radio advertising time sales,0.018,0.019
+3631,Radio advertising time sales,0.018,0.019
+363101,Radio advertising time sales,0.018,0.019
+365,"Internet advertising sales, excluding Internet advertising sold by print publishers",0.129,0.125
+3651,"Internet advertising sales, excluding Internet advertising sold by print publishers",0.129,0.125
+365101,"Internet advertising sales, excluding Internet advertising sold by print publishers",0.129,0.125
+37,"Telecommunication, cable, and internet user services",2.983,2.981
+371,Wired telephone services,0.435,0.424
+3711,Residential wired telephone services,0.257,0.251
+371101,Local residential wired telephone service,0.151,0.148
+371102,Long distance residential wired telephone service,0.085,0.082
+371103,All-distance residential wired telephone service,0.02,0.02
+3712,Business wired telephone services,0.1,0.094
+371201,Local business wired telephone service,0.032,0.032
+371202,Long distance business wired telephone service,0.008,0.008
+371203,All-distance business wired telephone service (partial),0.004,0
+371204,Private line wired telephone service,0.055,0.054
+3713,Other wired telephone services,0.079,0.078
+371301,Other wired telephone services,0.079,0.078
+372,Wireless telecommunication services,0.882,0.871
+3721,Cellular phone and other wireless telecommunication services,0.882,0.871
+372101,Cellular phone and other wireless telecommunication services,0.882,0.871
+373,Cable and satellite subscriber services,0.682,0.692
+3731,Cable and satellite subscriber services,0.682,0.692
+373101,Cable and satellite subscriber services,0.682,0.692
+374,Internet access services,0.197,0.192
+3741,Internet access services,0.197,0.192
+374102,Residential Internet access services,0.162,0.158
+374103,Business Internet access services,0.035,0.034
+375,Bundled wired telecommunications access services,0.787,0.802
+3751,Bundled wired telecommunications access services,0.787,0.802
+375101,Bundled wired telecommunications access services,0.787,0.802
+38,Data processing and related services,0.393,0.397
+381,Data processing and related services,0.393,0.397
+3811,Data processing and related services,0.393,0.397
+381101,"Hosting, ASP and other IT infrastructure provisioning services",0.212,0.219
+381102,Business process management services,0.091,0.09
+381103,"Data management, information transformation and other services",0.09,0.088
+39,Credit intermediation services (partial),1.943,1.828
+391,Loan services (partial),1.199,1.097
+3911,Business loans (partial),0.042,0.037
+391101,Business loans (partial),0.042,0.037
+3912,Consumer loans (partial),1.058,0.969
+391201,Residential real estate loans (partial),0.822,0.743
+391202,Vehicle loans (partial),0.043,0.043
+391203,"Credit cards, overdraft credit, and related plans (partial)",0.192,0.183
+3913,Other loans and loan services (partial),0.098,0.091
+391301,Other loans and loan services (partial),0.098,0.091
+392,Deposit services (partial),0.627,0.616
+3921,Deposit services (partial),0.627,0.616
+392101,Deposit services (partial),0.627,0.616
+393,"Other credit intermediation services, including trust services (partial)",0.117,0.115
+3931,"Other credit intermediation services, including trust services (partial)",0.117,0.115
+393101,"Other credit intermediation services, including trust services (partial)",0.117,0.115
+40,Investment services,2.348,2.357
+401,"Securities brokerage, dealing, investment advice, and related services",0.764,0.68
+4011,"Securities brokerage, dealing, investment advice, and related services",0.764,0.68
+401101,"Securities brokerage, dealing, and investment advice",0.524,0.479
+401102,Securities brokerage and dealing related services (partial),0.24,0.201
+402,Portfolio management,1.354,1.429
+4021,Portfolio management,1.354,1.429
+402101,Portfolio management,1.354,1.429
+403,Investment banking,0.229,0.248
+4031,Investment banking,0.229,0.248
+403101,Investment banking,0.229,0.248
+41,Insurance and annuities,2.831,2.833
+411,Insurance,2.481,2.486
+4111,Insurance,2.481,2.486
+411101,Life insurance,0.279,0.276
+411102,"Disability insurance, including accidental death",0.022,0.022
+411103,Health and medical insurance,0.835,0.836
+411104,Property and casualty insurance,1.345,1.351
+412,Annuities,0.349,0.347
+4121,Annuities,0.349,0.347
+412101,Annuities,0.349,0.347
+43,Real estate services (partial),1.591,1.621
+431,Nonresidential real estate services,0.509,0.515
+4311,Nonresidential real estate rents,0.234,0.231
+431101,"Office buildings, gross rents",0.073,0.074
+431102,"Retail properties, gross rents",0.066,0.064
+431103,"Industrial buildings, gross rents",0.013,0.014
+431104,"Self-service storage and miniwarehouses, gross rents",0.071,0.07
+431105,"Other nonresidential buildings, gross rents",0.011,0.01
+4312,"Nonresidential property sales and leases including land, brokerage fees and commissions",0.261,0.269
+431201,"Nonresidential property sales and leases including land, brokerage fees and commissions",0.261,0.269
+4313,Nonresidential property management fees,0.015,0.015
+431301,Nonresidential property management fees,0.015,0.015
+432,Residential real estate services (partial),1.039,1.064
+4321,"Residential property sales and rental, brokerage fees and commissions",1.007,1.033
+432101,"Residential property sales and rental, brokerage fees and commissions",1.007,1.033
+4322,Residential property management fees,0.032,0.031
+432201,Residential property management fees,0.032,0.031
+433,Real estate appraisal fees,0.042,0.042
+4331,Real estate appraisal fees,0.042,0.042
+433101,Real estate appraisal fees,0.042,0.042
+44,Rental and leasing of goods (partial),0.213,0.211
+441,Passenger car rental,0.112,0.11
+4411,Passenger car rental,0.112,0.11
+441101,Passenger car rental,0.112,0.11
+442,"Truck, trailer, and RV rental and leasing",0.068,0.069
+4421,"Truck, trailer, and RV rental and leasing",0.068,0.069
+442101,"Truck, truck trailer and RV rental",0.014,0.014
+442102,"Truck, truck trailer and RV leasing",0.054,0.054
+443,"Construction, mining, and forestry machinery and equipment rental and leasing",0.034,0.033
+4431,"Construction, mining, and forestry machinery and equipment rental and leasing",0.034,0.033
+443101,"Construction, mining, and forestry machinery and equipment rental and leasing",0.034,0.033
+45,Professional services (partial),3.376,3.429
+451,Legal services,1.532,1.581
+4511,Legal services,1.532,1.581
+451101,Legal services,1.532,1.581
+452,Accounting services (partial),0.226,0.228
+4521,"Accounting services, excluding payroll",0.226,0.228
+452101,Financial auditing,0.038,0.037
+452102,Tax preparation and planning,0.122,0.124
+452103,Bookkeeping and compilation,0.028,0.029
+452104,"Other accounting services, including billing and review",0.038,0.038
+453,Architectural and engineering services,1.119,1.126
+4531,Architectural services,0.035,0.034
+453101,Architectural services,0.035,0.034
+4532,Engineering services,1.084,1.092
+453201,Engineering services,1.084,1.092
+454,"Management, scientific, and technical consulting services",0.279,0.272
+4541,Management consulting services,0.279,0.272
+454101,Administrative and general management consulting services,0.177,0.174
+454102,Human resources consulting services,0.021,0.02
+454103,Marketing consulting services,0.048,0.048
+454104,"Process, physical distribution, and logistics consulting services",0.028,0.026
+454105,Other management consulting services,0.005,0.005
+455,Advertising and related services (partial),0.026,0.026
+4551,Advertising agency services,0.026,0.026
+455101,Advertising agency services,0.026,0.026
+456,Information technology (IT) technical support and consulting services (partial),0.195,0.196
+4561,Information technology (IT) technical support and consulting services (partial),0.195,0.196
+456101,Information technology (IT) technical support and consulting services (partial),0.195,0.196
+46,Employment services,0.132,0.134
+461,Permanent placement services,0.008,0.008
+4611,Permanent placement services,0.008,0.008
+461101,Permanent placement services,0.008,0.008
+462,Executive search services,0.003,0.003
+4621,Executive search services,0.003,0.003
+462101,Executive search services,0.003,0.003
+463,Staffing services,0.122,0.124
+4631,Temporary help services,0.063,0.065
+463101,Temporary help services,0.063,0.065
+4632,Co-employment staffing services,0.059,0.059
+463201,Co-employment staffing services,0.059,0.059
+47,Travel arrangement services  (partial),0.082,0.08
+471,Arrangement of flights  (partial),0.027,0.027
+4711,Arrangement of international flights,0.017,0.017
+471101,Arrangement of international flights,0.017,0.017
+4712,Arrangement of domestic flights,0.01,0.011
+471201,Arrangement of domestic flights (partial),0.01,0.011
+472,Arrangement of vehicle rentals and lodging,0.01,0.009
+4721,Arrangement of vehicle rentals and lodging,0.01,0.009
+472101,Arrangement of vehicle rentals and lodging (partial),0.01,0.009
+473,Arrangement of cruises and tours,0.017,0.015
+4731,Arrangement of cruises and tours,0.017,0.015
+473101,Arrangement of cruises and tours,0.017,0.015
+474,Other travel arrangements (partial),0.028,0.028
+4741,Other travel arrangements (partial),0.028,0.028
+474101,Other travel arrangements (partial),0.028,0.028
+48,Selected security services (partial),0.063,0.064
+481,Security guard services,0.063,0.064
+4811,Security guard services,0.063,0.064
+481101,Security guard services,0.063,0.064
+49,Cleaning and building maintenance services (partial),0.063,0.062
+491,Janitorial services,0.063,0.062
+4911,Janitorial services,0.063,0.062
+491101,Janitorial services,0.063,0.062
+50,Waste collection and remediation services (partial),0.181,0.185
+501,Waste collection,0.181,0.185
+5011,Solid waste collection,0.181,0.185
+501101,Solid waste collection,0.181,0.185
+51,Health care services,17.602,17.716
+511,Outpatient care (partial),10.708,10.759
+5111,Outpatient care (partial),10.708,10.759
+511101,Physician care,4.174,4.159
+511102,Medical laboratory and diagnostic imaging center care,0.354,0.346
+511103,Home health and hospice care,0.735,0.745
+511104,Hospital outpatient care,4.223,4.29
+511105,Dental care,1.222,1.219
+512,Inpatient care,6.815,6.878
+5121,Inpatient care,6.815,6.878
+512101,Hospital inpatient care,5.287,5.339
+512102,Nursing home care,1.261,1.269
+512103,Intellectual and developmental disability center care,0.267,0.27
+513,"Sales of blood and blood products, organs, and tissues",0.079,0.079
+5131,"Sales of blood and blood products, organs, and tissues",0.079,0.079
+513101,"Sales of blood and blood products, organs, and tissues",0.079,0.079
+53,Accommodation services,1.204,1.218
+531,Traveler accommodation services,1.204,1.218
+5311,Traveler accommodation services,1.204,1.218
+531101,Guestroom or unit rental,1.106,1.118
+531102,Other traveler accommodation services,0.098,0.1
+54,Food and beverage for immediate consumption services (partial),0.616,0.617
+541,Food and beverage for immediate consumption services (partial),0.616,0.617
+5411,Food and nonalcoholic beverages for immediate consumption (partial),0.524,0.525
+541101,Food and nonalcoholic beverages for immediate consumption (partial),0.524,0.525
+5412,Alcoholic beverages for immediate consumption (partial),0.091,0.092
+541201,Alcoholic beverages for immediate consumption (partial),0.091,0.092
+55,Repair and maintenance services (partial),0.729,0.746
+551,Commercial and industrial machinery and equipment repair and maintenance,0.02,0.02
+5511,Commercial and industrial machinery and equipment repair and maintenance,0.02,0.02
+551101,Commercial machinery repair and maintenance,0.02,0.02
+552,Motor vehicle repair and maintenance (partial),0.619,0.637
+5521,Motor vehicle repair and maintenance (partial),0.619,0.637
+552101,Motor vehicle repair and maintenance (partial),0.619,0.637
+553,Ship repair and maintenance,0.052,0.049
+5531,Ship repair and maintenance,0.052,0.049
+553101,"Ship repair, military",0.05,0.048
+553102,"Ship repair, nonmilitary",0.001,0.001
+554,Aircraft repair and maintenance,0.04,0.04
+5541,Aircraft repair and maintenance,0.04,0.04
+554101,Aircraft repair and maintenance,0.04,0.04
+56,Entertainment services (partial),0.839,0.824
+561,Membership dues and admissions and recreation facility use fees (partial),0.441,0.443
+5611,Membership dues and admissions and recreation facility use fees (partial),0.441,0.443
+561101,Membership dues,0.28,0.278
+561102,Admissions and recreational facilities use fees (partial),0.161,0.164
+562,Recreational activity instruction fees (partial),0.008,0.008
+5621,Recreational activity instruction fees (partial),0.008,0.008
+562101,Recreational activity instruction fees (partial),0.008,0.008
+563,Gaming receipts (partial),0.39,0.374
+5631,Gaming receipts (partial),0.39,0.374
+563101,Gaming receipts (partial),0.39,0.374
+57,Wholesale trade services,10.557,10.592
+571,Machinery and equipment and parts and supplies wholesaling,5.055,5.006
+5711,Machinery and equipment and parts and supplies wholesaling,5.055,5.006
+571101,Machinery and equipment wholesaling,3.977,-
+571102,Parts and supplies for machinery and equipment wholesaling,1.078,1.155
+571103,Machinery and vehicle wholesaling,-,2.793
+571104,Professional and commercial equipment wholesaling,-,1.057
+572,Furnishings wholesaling,0.179,0.187
+5721,Furnishings wholesaling,0.179,0.187
+572101,Furnishings wholesaling,0.179,0.187
+573,"Building materials, paint, and hardware wholesaling",0.182,0.184
+5731,"Building materials, paint, and hardware wholesaling",0.182,0.184
+573101,"Building materials, paint, and hardware wholesaling",0.182,0.184
+574,"Metals, minerals, and ores wholesaling",0.069,0.071
+5741,"Metals, minerals, and ores wholesaling",0.069,0.071
+574101,"Metals, minerals, and ores wholesaling",0.069,0.071
+575,Chemicals and allied products wholesaling,1.14,1.198
+5751,Chemicals and allied products wholesaling,1.14,1.198
+575101,Chemicals and allied products wholesaling,1.14,1.198
+576,Paper and plastics products wholesaling,0.149,0.158
+5761,Paper and plastics products wholesaling,0.149,0.158
+576101,Paper and plastics products wholesaling,0.149,0.158
+577,Apparel wholesaling,0.596,0.61
+5771,Apparel wholesaling,0.596,0.61
+577101,Apparel wholesaling,0.596,0.61
+578,Food and alcohol wholesaling,1.362,1.343
+5781,Food and alcohol wholesaling,1.362,1.343
+578101,Food wholesaling,1.015,0.994
+578102,Alcohol wholesaling,0.347,0.35
+579,Other commodities wholesaling,1.826,1.835
+5791,Other commodities wholesaling,1.826,1.835
+579101,Other commodities wholesaling,1.826,1.835
+58,Retail trade services,9.854,9.698
+581,Food and alcohol retailing,2.284,2.284
+5811,Food and alcohol retailing,2.284,2.284
+581102,Food retailing,2.007,2.014
+581103,Alcohol retailing,0.276,0.27
+582,"Health and beauty care retailing, including optical goods",1.748,1.749
+5821,"Health and beauty care retailing, including optical goods",1.748,1.749
+582101,"Health and beauty care retailing, including optical goods",1.748,1.749
+583,"Apparel, jewelry, footwear, and accessories retailing",1.616,1.617
+5831,"Apparel, jewelry, footwear, and accessories retailing",1.616,1.617
+583101,"Apparel, footwear, and accessories retailing",1.35,1.357
+583102,Jewelry retailing,0.266,0.26
+584,"Computer hardware, software, and supplies retailing",0.241,0.239
+5841,"Computer hardware, software, and supplies retailing",0.241,0.239
+584101,"Computer hardware, software, and supplies retailing",0.241,0.239
+585,"TV, video, and photographic equipment and supplies retailing",0.102,0.09
+5851,"TV, video, and photographic equipment and supplies retailing",0.102,0.09
+585101,"TV, video, and photographic equipment and supplies retailing",0.102,0.09
+586,Automobiles and automobile parts retailing,0.643,0.632
+5861,Automobiles and automobile parts retailing,0.643,0.632
+586101,Automobile retailing (Partial),0.362,0.346
+586102,"Automotive parts, including tires, retailing",0.28,0.286
+587,Manufactured (mobile) homes retailing,0.028,-
+5871,Manufactured (mobile) homes retailing,0.028,-
+587101,Manufactured (mobile) homes retailing,0.028,-
+588,"RVs, trailers, and campers retailing",0.026,0.026
+5881,"RVs, trailers, and campers retailing",0.026,0.026
+588101,"RVs, trailers, and campers retailing",0.026,0.026
+589,"Sporting goods, including boats, retailing",0.236,0.236
+5891,"Sporting goods, including boats, retailing",0.236,0.236
+589101,"Sporting goods, including boats, retailing",0.236,0.236
+58A,"Lawn, garden, and farm equipment and supplies retailing",0.264,0.258
+58A1,"Lawn, garden, and farm equipment and supplies retailing",0.264,0.258
+58A101,"Lawn, garden, and farm equipment and supplies retailing",0.264,0.258
+58B,Furniture retailing,0.288,0.291
+58B1,Furniture retailing,0.288,0.291
+58B101,Furniture retailing,0.288,0.291
+58C,Flooring and floor coverings retailing,0.111,0.111
+58C1,Flooring and floor coverings retailing,0.111,0.111
+58C101,Flooring and floor coverings retailing,0.111,0.111
+58D,Hardware and building materials and supplies retailing,0.288,0.281
+58D1,Hardware and building materials and supplies retailing,0.288,0.281
+58D101,Hardware and building materials and supplies retailing,0.288,0.281
+58E,Major household appliance retailing,0.09,0.091
+5.80E+02,Major household appliance retailing,0.09,0.091
+5.80E+102,Major household appliance retailing,0.09,0.091
+58F,Fuels and lubricants retailing,0.761,0.629
+58F1,Fuels and lubricants retailing,0.761,0.629
+58F101,Automotive fuels and lubricants retailing,0.698,0.572
+58F102,Household fuels retailing,0.062,0.056
+58G,Cleaning supplies and paper products retailing,0.168,0.171
+58G1,Cleaning supplies and paper products retailing,0.168,0.171
+58G101,Cleaning supplies and paper products retailing,0.168,0.171
+58H,Book retailing,0.038,0.041
+58H1,Book retailing,0.038,0.041
+58H101,Book retailing,0.038,0.041
+58I,Other merchandise retailing (partial),0.924,0.953
+58I1,Other merchandise retailing (partial),0.924,0.953
+58I101,Other merchandise retailing (partial),0.924,0.953
+60,Mining services,1.068,1.03
+601,Mining services,1.068,1.03
+6011,Mining services,1.068,1.03
+601101,Metal mining services,0.016,0.016
+601102,Support activities for coal mining,0.016,0.017
+601103,Drilling oil and gas wells services,0.284,0.273
+601104,Support activities for oil and gas operations,0.745,0.717
+601105,Nonmetallic minerals mining services,0.007,0.007
+80,Construction (partial),1.688,1.733
+801,New nonresidential building construction,1.574,1.618
+8011,New nonresidential building construction,1.574,1.618
+801101,New warehouse building construction,0.135,0.14
+801102,New school building construction,0.388,0.402
+801103,New office building construction,0.467,0.478
+801104,New industrial building construction,0.282,0.291
+801105,New health care building construction,0.302,0.307
+802,Maintenance and repair of nonresidential buildings (partial),0.114,0.115
+8021,Maintenance and repair of nonresidential buildings (partial),0.114,0.115
+802101,Maintenance and repair of nonresidential buildings (partial),0.114,0.115
